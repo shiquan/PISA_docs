@@ -1,0 +1,19 @@
+{
+    "cell barcode tag":"CB",
+    "cell barcode":[
+	{
+	    "location":"R1:1-10"
+	},
+	{
+	    "location":"R1:17-26"
+	},
+    ],
+    "UMI tag":"UB",
+    "UMI":{
+	"location":"R1:32-41",
+    },
+    "read 1":{
+	"location":"R2:1-100",
+    }
+}
+
